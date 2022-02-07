@@ -1,6 +1,5 @@
 
 # Disney Clone using React Framework
->>>>>>> 591fceccca4165e36f26f57bdb001a940d4fe411
 
 ## Available Scripts
 
@@ -32,4 +31,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 =======
 ## Dev Logs
 3rd February 2022 : Created Header/Navgation Bar, yet to be made resposive
->>>>>>> 591fceccca4165e36f26f57bdb001a940d4fe411
